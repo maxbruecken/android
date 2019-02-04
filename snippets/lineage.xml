@@ -2,6 +2,7 @@
 <manifest>
 
   <!-- LineageOS additions -->
+  <project path="vendor/lineage" name="LineageOS/android_vendor_lineage" />
 
   <!-- Infrastructure -->
   <project path="lineage/ansible" name="LineageOS/ansible" groups="infra" revision="master" />
